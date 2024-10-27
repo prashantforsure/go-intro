@@ -5,9 +5,9 @@ import "fmt"
 func main() {
 	numbers := [5]int{4, 5, 3, 6, 7}
 	fmt.Println(Sum(numbers))
-    array()
-   arrayString()
-charLoop()
+	array()
+	arrayString()
+	charLoop()
 
 }
 
